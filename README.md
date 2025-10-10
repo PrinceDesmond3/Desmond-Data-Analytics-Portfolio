@@ -39,7 +39,7 @@ Here, you’ll find projects that demonstrate my ability to clean, analyze, and 
 - Automated extraction of bank transactions from PDF statements.
 - Analyzed income and expense patterns over time.
 - Created visual insights on savings and spending habits.  
-📂 [View Project Files](./Bank_Statement_PowerBi_Python_Project) | 📊 [Power BI Dashboard](./Bank_Statement_PowerBi_Python_Project)
+📂 [View Project Files](./Bank_Statement_PowerBi_Python_Project) | 📊 [Power BI Dashboard](./Bank_Statement_PowerBi_Python_Project/dashboard_preview.png)
 
 ---
 
