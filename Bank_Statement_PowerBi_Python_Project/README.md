@@ -29,6 +29,7 @@ This project automates the cleaning and merging of multiple monthly bank stateme
 - [🐍 Python Script for Merging PDFs](./Merge_And_Clean_Bank_Statement_Script.ipynb)
 - [📊 Cleaned Dataset (CSV)](./Bank_Statements_Merged_Cleaned_Dataset.xlsx)
 - [📈 Power BI File](./PowerBI_BankDashboard.pbix)
+- - [🖼️ Dashboard Snapshot](./dashboard_preview.png)
 
 
 🔗 [View Interactive Dashboard on Power BI Service](https://app.powerbi.com/view?r=YOUR_POWERBI_PUBLIC_LINK)
