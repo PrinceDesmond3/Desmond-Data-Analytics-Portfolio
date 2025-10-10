@@ -28,7 +28,7 @@ Here, you’ll find projects that demonstrate my ability to clean, analyze, and 
 - Identified the most profitable sub-categories.
 - Discovered monthly sales and profit trends.
 - Ranked top-performing customers by total profit.  
-📂 [View Project Files](./Superstore_Excel_Project) | 📸 [Dashboard Screenshot](#)
+📂 [View Project Files](./Excel_Superstore_Project) | 📸 [Dashboard Screenshot](Superstore_Dashboard)
 
 ---
 
