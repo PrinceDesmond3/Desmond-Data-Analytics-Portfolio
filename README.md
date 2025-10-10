@@ -28,7 +28,7 @@ Here, you’ll find projects that demonstrate my ability to clean, analyze, and 
 - Identified the most profitable sub-categories.
 - Discovered monthly sales and profit trends.
 - Ranked top-performing customers by total profit.  
-📂 [View Project Files](./Excel_Superstore_Project) | 📸 [Dashboard Screenshot](./Bank_Statement_PowerBi_Python_Project/dashboard_preview.png)
+📂 [View Project Files](./Excel_Superstore_Project) | 📸 [Dashboard Screenshot](./Excel_Superstore_Project/Superstore_Dashboard.png)
 
 ---
 
