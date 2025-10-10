@@ -17,10 +17,18 @@ Analyze customer spending behavior, revenue by genre, and top-performing countri
 4. Built interactive Tableau dashboard  
 
 ### 📈 Dashboard Snapshot
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](Tableau Dashboard.png)
 
 ### 🔑 Insights
 - Total revenue: **$2,328**  
 - USA is the top billing country  
 - Rock and Latin genres generated the highest sales  
 - Interactive map filter enables country-level insights
+
+### 📁 Files
+- [🧮 SQL Query Script](./Cleaning and Insights.sql)
+- [📊 Exported CSV Files](./Top_Customers_By_Spending.csv)
+- [📈 Tableau Workbook File](./https://public.tableau.com/views/MusicStoreSalesPerfrmance/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [🖼️ Dashboard Preview](./Tableau Dashboard.png)
+
+🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/YOUR_TABLEAU_LINK)
