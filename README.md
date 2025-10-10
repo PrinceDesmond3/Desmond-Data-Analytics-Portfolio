@@ -67,13 +67,10 @@ Here, you’ll find projects that demonstrate my ability to clean, analyze, and 
 
 ## 📫 Contact Me
 
-- **LinkedIn:** [linkedin.com/in/desmondnnamani](#)
-- **Email:** yourname@email.com
+- **LinkedIn:** [linkedin.com/in/desmondnnamani](./www.linkedin.com/in/nnamani-desmond)
+- **Email:** nnamanidesmondbve@gmail.com
 - **Portfolio Website:** [Notion Portfolio Link (if you build one)](#)
 
 ---
 
 ⭐ *Feel free to explore my projects, leave feedback, or connect with me on LinkedIn!*
-<img width="1830" height="1036" alt="Bank Statement Dashboard" src="https://github.com/user-attachments/assets/3ee782ca-7802-4015-a45b-d78056e70f20" />
-<img width="1949" height="1199" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/e092a25e-1065-449c-8477-2d19d4eadfa2" />
-<img width="1841" height="879" alt="Dashboard" src="https://github.com/user-attachments/assets/b376537f-9135-45ae-840f-0b82734fee72" />
