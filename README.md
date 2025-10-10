@@ -50,7 +50,7 @@ Here, you’ll find projects that demonstrate my ability to clean, analyze, and 
 - Analyzed revenue by country and customer demographics.
 - Discovered top-selling genres and top-spending customers.
 - Built an interactive Tableau dashboard for stakeholders.  
-📂 [View SQL Files](./Music_Store_SQL_Tableau) | 🌍 [View Tableau Dashboard](#)
+📂 [View SQL Files](./Music_Store_SQL_Tableau) | 🌍 [View Tableau Dashboard](./Music_SQL__Tableau_Project/dashboard_preview.png)
 
 ---
 
