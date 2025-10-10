@@ -27,5 +27,11 @@ Sales and profit showed consistent monthly variations, revealing peak periods of
 - `Superstore_Dashboard.png` — snapshot of the final dashboard
 -  'Superstore_Project_Summary'- Project summary
 
+  ### 📁 Files
+- [📊 Download Dataset (CSV)](./Superstore_Full.csv)
+- [📈 Download Excel Dashboard File](./Superstore_Analysis.xlsx)
+- [🖼️ Dashboard Preview](./Superstore_Dashboard.png)
+
+
 ## 🧑‍💼 Author
 **Desmond Nnamani** — Aspiring Data Analyst passionate about turning data into actionable insights
