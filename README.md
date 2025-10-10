@@ -67,8 +67,8 @@ Here, you’ll find projects that demonstrate my ability to clean, analyze, and 
 
 ## 📫 Contact Me
 
-- **LinkedIn:** [linkedin.com/in/desmondnnamani](./www.linkedin.com/in/nnamani-desmond)
-- **Email:** nnamanidesmondbve@gmail.com
+- **LinkedIn:** [Nnamani Desmond](https://www.linkedin.com/in/nnamani-desmond)
+- **Email:** [nnamanidesmondbve@gmail.com](mailto:desmondanalytics@gmail.com)
 - **Portfolio Website:** [Notion Portfolio Link (if you build one)](#)
 
 ---
