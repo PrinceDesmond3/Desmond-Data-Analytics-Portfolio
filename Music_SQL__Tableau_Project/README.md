@@ -26,7 +26,7 @@ Analyze customer spending behavior, revenue by genre, and top-performing countri
 - Interactive map filter enables country-level insights
 
 ### 📁 Files
-- [🧮 SQL Query Script](./Cleaning and insights.sql)
+- [🧮 SQL Query Script](./MusicStore_Queries.sql)
 - [📊 Exported CSV Files](./Top_Customers_By_Spending.csv)
 - [📈 Tableau Workbook File](./Music Store Sales Perfrmance)
 - [🖼️ Dashboard Preview](./Tableau Dashboard.png)
