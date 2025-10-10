@@ -28,7 +28,7 @@ Analyze customer spending behavior, revenue by genre, and top-performing countri
 ### 📁 Files
 - [🧮 SQL Query Script](./MusicStore_Queries.sql)
 - [📊 Exported CSV Files](./Top_Customers_By_Spending.csv)
-- [📈 Tableau Workbook File](./Music Store Sales Perfrmance)
-- [🖼️ Dashboard Preview](./Tableau Dashboard.png)
+- [📈 Tableau Workbook File](./MusicStore_Dashboard)
+- [🖼️ Dashboard Preview](./dashboard_preview.png)
 
 🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/https://public.tableau.com/views/MusicStoreSalesPerfrmance/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
