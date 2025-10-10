@@ -2,6 +2,7 @@
 A collection of my data analytics projects using Excel, SQL, Power BI, Python, and Tableau — showcasing skills in data cleaning, visualization, and business insights.
 # 👋 Hi, I'm Desmond Nnamani
 
+
 ### 📊 Data Analyst | Excel | SQL | Power BI | Python | Tableau
 
 Welcome to my data analytics portfolio!  
@@ -69,7 +70,8 @@ Here, you’ll find projects that demonstrate my ability to clean, analyze, and 
 
 - **LinkedIn:** [Nnamani Desmond](https://www.linkedin.com/in/nnamani-desmond)
 - **Email:** [desmondnnamani.analytics@gmail.com](mailto:desmondnnamani.analytics@gmail.com)
-- **Portfolio Website:** [Notion Portfolio Link (if you build one)](#)
+- **Portfolio Website:** [![View Portfolio](https://img.shields.io/badge/Portfolio-View%20Now-blue?style=for-the-badge)](https://www.notion.so/Nnamani-Desmond-Data-Analyst-Portfolio-2886efe54edd809cb0b5e0f4faa7fcb6?source=copy_link)
+
 
 ---
 
