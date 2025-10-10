@@ -29,7 +29,7 @@ Sales and profit showed consistent monthly variations, revealing peak periods of
 
   ### 📁 Files
 - [📊 Download Dataset (CSV)](./Superstore_Full.csv)
-- [📈 Download Excel Dashboard File](./Superstore_Analysis.xlsx)
+- [📈 Download Excel Dashboard File](./SuperstoreAnalysis.xlsx)
 - [🖼️ Dashboard Preview](./Superstore_Dashboard.png)
 
 
