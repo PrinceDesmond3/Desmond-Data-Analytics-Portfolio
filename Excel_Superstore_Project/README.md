@@ -15,11 +15,11 @@ The goal was to identify key profit drivers, understand sales trends, and highli
 - **Data Cleaning** using Excel Functions
 
 ## 📈 Key Insights
-📊 Category Sales Performance:
+- 📊 Category Sales Performance:
 Technology generated the highest sales, followed by Furniture, and then Office Supplies.
-💰 Profit by Sub-Category:
+- 💰 Profit by Sub-Category:
 High profits were recorded in subcategories such as Phones and Copiers, while certain Furniture items underperformed.
-📅 Monthly Trends:
+- 📅 Monthly Trends:
 Sales and profit showed consistent monthly variations, revealing peak periods of customer 
 
 ## 🧩 Files in this Folder
