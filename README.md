@@ -28,7 +28,7 @@ Here, you’ll find projects that demonstrate my ability to clean, analyze, and 
 - Identified the most profitable sub-categories.
 - Discovered monthly sales and profit trends.
 - Ranked top-performing customers by total profit.  
-📂 [View Project Files](#) | 📸 [Dashboard Screenshot](#)
+📂 [View Project Files](./Superstore_Excel_Project) | 📸 [Dashboard Screenshot](#)
 
 ---
 
@@ -39,7 +39,7 @@ Here, you’ll find projects that demonstrate my ability to clean, analyze, and 
 - Automated extraction of bank transactions from PDF statements.
 - Analyzed income and expense patterns over time.
 - Created visual insights on savings and spending habits.  
-📂 [View Project Files](#) | 📊 [Power BI Dashboard](#)
+📂 [View Project Files](./Bank_Statement_Analysis) | 📊 [Power BI Dashboard](#)
 
 ---
 
@@ -50,7 +50,7 @@ Here, you’ll find projects that demonstrate my ability to clean, analyze, and 
 - Analyzed revenue by country and customer demographics.
 - Discovered top-selling genres and top-spending customers.
 - Built an interactive Tableau dashboard for stakeholders.  
-📂 [View SQL Files](#) | 🌍 [View Tableau Dashboard](#)
+📂 [View SQL Files](./Music_Store_SQL_Tableau) | 🌍 [View Tableau Dashboard](#)
 
 ---
 
