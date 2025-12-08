@@ -56,6 +56,17 @@ Here, you’ll find projects that demonstrate my ability to clean, analyze, and 
 
 ---
 
+### 💼 4. Lending Club Loan Default Analysis (Excel)
+**Tools:** Microsoft Excel  
+**Focus:** Credit Risk Analysis, Dashboard Design, Data Storytelling  
+**Highlights:**
+- Analyzed 9,578 loan records to identify key default risk drivers.
+- Built interactive KPIs, pivot tables, and slicers for dynamic filtering.
+- Discovered strong relationships between FICO score, interest rate, loan purpose, and default behavior.  
+📂 [View Project Files](./lending-club-loan-default-analysis) | 📊 [Excel Dashboard](./lending-club-loan-default-analysis/lending_club_dashboard.xlsx) | 🖼️ [Dashboard Preview](./lending-club-loan-default-analysis/loan_dashboard_preview.png)
+
+---
+
 ## 🧩 Skills
 
 | Category | Tools |
