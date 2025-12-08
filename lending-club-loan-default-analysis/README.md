@@ -30,5 +30,15 @@ This project analyzes loan performance and borrower risk using a dataset of 9,57
 * Dashboard Design
 
 
+  ## 📁 Project Files
+
+- 📊 **Download the Excel Dashboard:**  
+  [Click here](lending_club_dashboard.xlsx)
+
+- 🖼️ **View Dashboard Image Preview:**  
+  [Click here](loan_dashboard_preview.png)
+
+
+
 
 
