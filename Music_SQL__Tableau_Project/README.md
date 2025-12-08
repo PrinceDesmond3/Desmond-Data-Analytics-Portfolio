@@ -17,7 +17,7 @@ Analyze customer spending behavior, revenue by genre, and top-performing countri
 4. Built interactive Tableau dashboard  
 
 ### 📈 Dashboard Snapshot
-![Dashboard Preview](Tableau Dashboard.png)
+![Dashboard Preview](Music_SQL__Tableau_Project/dashboard_preview.png)
 
 ### 🔑 Insights
 - Total revenue: **$2,328**  
