@@ -16,8 +16,6 @@ Analyze customer spending behavior, revenue by genre, and top-performing countri
 3. Exported query results to CSV  
 4. Built interactive Tableau dashboard  
 
-### 📈 Dashboard Snapshot
-![Dashboard Preview](Music_SQL__Tableau_Project/dashboard_preview.png)
 
 ### 🔑 Insights
 - Total revenue: **$2,328**  
