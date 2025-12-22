@@ -38,7 +38,10 @@ This project analyzes loan performance and borrower risk using a dataset of 9,57
 - 🖼️ **View Dashboard Image Preview:**  
   [Click here](loan_dashboard_preview.png)
 
+ ## 🎥 Project Presentation Video
 
+▶️ **Watch the full project walkthrough on YouTube:**  
+ [Click here]https://youtu.be/Sc6GRXtvCWc
 
 
 
