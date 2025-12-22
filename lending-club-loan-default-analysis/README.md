@@ -41,7 +41,7 @@ This project analyzes loan performance and borrower risk using a dataset of 9,57
  ## 🎥 Project Presentation Video
 
 ▶️ **Watch the full project walkthrough on YouTube:**  
- [Click here]https://youtu.be/Sc6GRXtvCWc
+ [Click here](https://youtu.be/Sc6GRXtvCWc)
 
 
 
